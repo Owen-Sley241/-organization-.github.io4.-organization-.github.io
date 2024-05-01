@@ -1,0 +1,73 @@
+/* styles.css */
+
+/* Import de la police Google Fonts "Poppins" */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+/* Styles pour le corps de la page */
+body {
+  font-family: 'Poppins', sans-serif; /* Utilisation de la police Poppins */
+  background: #b9b3a9; /* Couleur de fond */
+  display: flex;
+  justify-content: center; /* Centrage horizontal */
+}
+
+/* Styles pour le conteneur principal */
+.container {
+  width: 450px;
+  padding: 20px;
+  margin-top: 80px;
+  background-color: #fff; /* Couleur de fond du conteneur */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Ombre portée */
+  border-radius: 20px; /* Coins arrondis */
+}
+
+/* Styles pour le titre h1 */
+h1 {
+  text-align: center; /* Centrage du texte */
+}
+
+/* Styles pour les questions */
+.question {
+  font-weight: bold; /* Texte en gras */
+  margin-bottom: 10px; /* Espacement en bas */
+}
+
+/* Styles pour les options de réponse */
+.options {
+  margin-bottom: 20px; /* Espacement en bas */
+}
+
+.option {
+  display: block; /* Affichage en bloc (un par ligne) */
+  margin-bottom: 10px; /* Espacement en bas */
+}
+
+/* Styles pour les boutons */
+.button {
+  display: inline-block; /* Affichage en ligne */
+  padding: 10px 20px; /* Espacement intérieur */
+  background-color: #428bca; /* Couleur de fond */
+  color: #fff; /* Couleur du texte */
+  border: none; /* Suppression des bordures */
+  cursor: pointer; /* Curseur de souris au survol */
+  font-size: 16px; /* Taille de police */
+  border-radius: 4px; /* Coins arrondis */
+  transition: background-color 0.3s; /* Transition au survol */
+  margin-right: 10px; /* Espacement à droite */
+}
+
+.button:hover {
+  background-color: #3071a9; /* Couleur de fond au survol */
+}
+
+/* Styles pour les résultats */
+.result {
+  text-align: center; /* Centrage du texte */
+  margin-top: 20px; /* Espacement en haut */
+  font-weight: bold; /* Texte en gras */
+}
+
+/* Classe pour masquer les éléments */
+.hide {
+  display: none; /* Masquage */
+}

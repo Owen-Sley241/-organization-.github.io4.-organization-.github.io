@@ -1,0 +1,69 @@
+
+[
+    {
+      "question": "Quelle est la capitale de la France ?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Quelle est la plus grande planète de notre système solaire ?",
+      "options": ["Mars", "Saturn", "Jupiter", "Neptune"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2018 ?",
+      "options": ["Brazil", "Germany", "France", "Argentina"],
+      "answer": "France"
+    },
+    {
+      "question": "Quelle est la montagne la plus haute du monde ?",
+      "options": ["Mount Everest", "K2", "Kangchenjunga", "Makalu"],
+      "answer": "Mount Everest"
+    },
+    {
+      "question": "Quel est le plus grand océan sur Terre ?",
+      "options": [
+        "Ocean Pacifique",
+        "Ocean Indien",
+        "Ocean Atlantique",
+        "Ocean Arctique"
+      ],
+      "answer": "Ocean Pacifique"
+    },
+    {
+      "question": "Quel est le symbole chimique de l'or ?",
+      "options": ["Au", "Ag", "Cu", "Fe"],
+      "answer": "Au"
+    },
+    {
+      "question": "Qui a peint la Joconde ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Quelle planète est connue comme la Planète Rouge ?",
+      "options": ["Mars", "Venus", "Mercury", "Uranus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Quelle est la plus grande espèce de requin ?",
+      "options": [
+        "Grand Requin Blanc",
+        "Requin-Baleine",
+        "Requin Tigre",
+        "Requin Marteau"
+      ],
+      "answer": "Grand Requin Blanc"
+    },
+    {
+      "question": "Quel animal est connu comme le Roi de la Jungle ?",
+      "options": ["Lion", "Tiger", "Elephant", "Giraffe"],
+      "answer": "Lion"
+    }
+  ]
+  
